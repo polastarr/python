@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @polastarr
 - 👀 I’m interested in THE iDOLM@STER
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Game Jams
 - 📫 You can reach me on twitter @polastarr
 
